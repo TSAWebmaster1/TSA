@@ -1,3 +1,3 @@
 # TSA
 # Link
-https:/TreasureHunt/rb.gy/zjta4o 
+https://rb.gy/zjta4o 

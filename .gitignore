@@ -6,7 +6,7 @@
     <!-- this is for mobile scaling
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     -->
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.google.com/specimen/Roboto+Slab" rel="stylesheet">
 
     <link href="styles/base.css" rel="stylesheet">
 </head>
@@ -20,7 +20,7 @@
         <div class="row">
             <div class="col">
                 <h1>Virtual</h1>
-                <h3>Dont stop until you're proud.</h3>
+                <h3>don't forget to win.</h3>
             </div>
             <div class="col">
                 <img src="profile idea 2.webp" class="profile-img" />
